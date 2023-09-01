@@ -1,1 +1,4 @@
-
+The dataset contains information about the orders of customers made at olist store in the from 2016-2018 such as order history, products purchased, customer satisfaction comments, and location.
+The objective is to create the best clustering for customer segmentation.
+The dataset can be found at https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+The datasets are not added here due to the memory constraint. However, the link is given
